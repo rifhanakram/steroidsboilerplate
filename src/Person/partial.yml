@@ -1,0 +1,7 @@
+functions:
+  helloWorld:
+    handler: dist/handler.Person_PersonService
+    events:
+      - http:
+          path: people/
+          method: get 

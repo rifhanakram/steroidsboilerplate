@@ -9,5 +9,4 @@ export class HelloService extends AbstractService {
         
         return {message: "Hello : " + name};
     }
-
 }
