@@ -1,4 +1,4 @@
-service: boilerplate-api
+service: js-meetup-api
 
 provider:
   name: aws
